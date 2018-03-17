@@ -1,5 +1,3 @@
-
-
 ## _Draft pieces_
 
 #### puzzle pieces:
