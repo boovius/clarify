@@ -3,7 +3,7 @@ Clarify _(working title)_
  
  
 ## Value Proposition
-A 10 day program consisting of concepts and exercises done in 30-45 minute sessions designed to help those feeling stuck take a powerfully directed "next step" - a step that builds momentum towards one's highest goals and a life of more meaning, where waking up in the morning brings excitement about what can be created that day. 
+Helping those feeling stuck or unfulfilled create a personally significant next step; a step that brings with it a life of greater meaning; a life where waking up in the morning brings excitement about what can be created that day. 
 
 ## Market Need
 Today there is less widespread poverty, famine, crime, and war than ever before. People have more possibility to do a variety of things with their lives than they ever have before.  And yet, people by and large are more miserable than they've ever been.  
@@ -31,6 +31,8 @@ They are seeking a sense of fulfillment through product or transformations, from
 A sense fulfillment which can only be created through intentional creation of one's life. 
 
 ## The Solution
+Clarify is a 10 day program; each day with a corresponding module containing powerful concepts and exercises, all completed in roughly 30 minutes a day.
+
 There is no one key thing out there that will provide the solution to this problem.  The attainment of any one thing always prompts the looking for something new.  What's needed is a process that can be replicable.
 
 A reset. 
@@ -50,6 +52,8 @@ We're all searching for it, truly.
 Bit by little bit.
 
 While it may not exactly feel like it, you've already been building up a lot of momentum.  And it's quite a lot easier to shift course a little bit than have to bring down all your momentum to stop and then completely change direction.
+
+### Dharma - the way - the journey over the destination
 
 ### Reorientation 
 You are a lot closer than you probably think.  You're most likely not miles off course from where you'd like to be.  To be clear, whatever vague vision you have in mind of where you'd like to get to is not our goal.  We're not going to use that target as a barometer of success whether or not we reach it.  We're simply going to use it as a target to point our energies forward towards. 
