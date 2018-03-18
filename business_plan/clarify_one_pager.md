@@ -20,7 +20,7 @@ Why is this happening?
 
 
  
-Even though in many things are better than they ever have been before and people are better off, it may be precisely because of this where one's basic necessities are provided for that one is naturally left to search for something more.  One is naturally left to ask: what have I done? What have I brought to this world? What value do I truly have?  And I am anything more than a simple cog in a machine?      
+Even though in many things are better than they ever have been before and people are better off, it may be precisely because of this where one's basic necessities are provided for that one is naturally left to search for something more.  One is naturally left to ask: what have I done? What have I brought to this world? What value do I truly have? I am anything more than a simple cog in a machine? And does my life hold any true value? 
 
 While, a multibillion dollar advertising industry works very hard to fill this sense of longing by selling us this or that new widget, the attainment of these things always bring a fleeting sense of joy and is never fulfilling. To put it another way, we are suffering broadly from a deficit of meaning. 
 
@@ -42,6 +42,9 @@ Most products out there seeking to address improving people's lives tend to focu
 Clarify is different in that it is a short, focused, and accessible program that teaches a process.  Once done, it can be replicated throughout one's life.  It also works off the concept that it is who we are right now which makes us unique and that uniqueness which makes us powerful.  Finally it is built off the notion that we are never far off from being in line with our true self.  Most often what we need is a reset and reorientation and then a directed and intentional step forward.  Followed by another and another and so on.  
 
 For, a sense of fulfillment only can only come from taking creative action in small steps towards a higher goal.  It is the active construction of one's own life which brings a greater sense of meaning and fulfillment to one's life. 
+
+## Competition
+Many tools look to "transform" people, changing them in some fundamental way away from who they are.  But we can never escape ourselves, and so Clarify takes a different approach.  Working with the notion that we are nearly always not far off from where we want to be (which is simply on "track" to where we'd like to go), Clarify utilizes the quite basic but incredibly powerful process of "meaning generation" or connecting intention to vision through action. 
 
 ## Key Concepts
 
