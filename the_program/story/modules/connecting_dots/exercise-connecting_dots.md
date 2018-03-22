@@ -1,6 +1,6 @@
 #### Exercise B - Meaning: _Connecting your dots going backward_
 
-We cannot build a map of our life going forward into the future.  But we basically can do this going backward.  So let's go backward.
+We cannot build a map of our life going forward into the future.  But we can do this going backward.  So let's go backward.
 
  - take the large poster board
  - take the stack of small post-it notes
