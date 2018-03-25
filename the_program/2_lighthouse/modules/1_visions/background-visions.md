@@ -1,4 +1,4 @@
-## Opening up to possiblity
+## Visions
 
 ### Limiting ourselves based on what others think is "right" or "sane" or "safe"
 Too often we limit ourselves to what is possible in our lives based on all the things we've heard.  "You can't do this, that's crazy!".
@@ -7,7 +7,7 @@ People have a tendancy to poo-poo new ideas from others as any new idea (no matt
 
 It's scary to be ourselves, especially in the face of doubt or criticism. And most often this doubt and criticism we feel from others comes from within us.  We stop ourselves from fully expressing ourselves for fear of this reaction from others. We tend to equate the approval of others very highly. But even more insidiously we fear their disapproval.  Getting kicked out of the tribe, getting excommunicated, is a super deep fear we all have.  But this leads us inevitably to conformity, which sucks away our personal creativity and expression.
 
-But remember, your life isn't made to be like anyone else's.  It can't be.  There's only one you and so it must be different.  So we can either live our true selves to our fullest capability and shine as brightly as we can or we can adopt the pathways of others and shine a bit more dimly. 
+But remember, your life isn't made to be like anyone else's.  It can't be.  There's only one you and so it must be different.  So we can either live our true selves to our fullest capability and shine as brightly as we can or we can adopt the pathways of others and shine a bit more dimly.
 
 ### Fear based mentality  
 Another thing that limits us a consequence-first fear-based mentality.  This is really normal, and people tend to take this approach first and sometimes always.  Now, to a large degree this is smart e.g. don't tell your boss that they're an asshole because they didn't acknowledge your good efforts even though you want to and don't tell that guy on the subway that he's an asshole for bumping into you even though you want to.  We can envision future realities and this helps us out.  
@@ -20,4 +20,4 @@ We run from perceived calamity even though we've seen ourselves time and time ag
 
 By focusing in on fear, we come up with all the reasons that we "cannot" do this or that thing that is pulling at us.  But this more than anything is stifling your truest expression of yourself and is in a very real way suffocating you spiritually. 
 
-Remember you're either giving your fullest gift into the universe or you're not. 
+Remember you're either giving your fullest gift into the universe or you're not.  
