@@ -1,6 +1,9 @@
 .LandingPage {
   text-align: center;
   padding: 15vh 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .LandingPage-title {
@@ -18,7 +21,8 @@
   font-family: minion-pro-display;
   font-style: italic;
   animation: appear 2s linear 0s normal 1 none running;
-  color: #888;
+  color: #000;
+  text-align: right;
 }
 
 .LandingPage-tagline--spotlight {

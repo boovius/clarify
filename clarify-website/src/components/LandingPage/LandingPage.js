@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
 import Container from '../Container/Container';
 import './LandingPage.css';
+import desertImage from '../../images/desert-footprints-walking-away.jpg'
+
+const sectionStyle = {backgroundImage: `url(${desertImage})` }
 
 class LandingPage extends Component {
   render() {
     return (
-      <div className="LandingPage">
+      <div style={sectionStyle} className="LandingPage">
         <Container>
           <h2 className='LandingPage-title'>CLAR<span role='img' aria-label='lightbulb'>💡</span>FY</h2>
           <div className='LandingPage-tagline'>
