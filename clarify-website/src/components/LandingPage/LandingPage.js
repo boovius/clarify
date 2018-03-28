@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import Container from '../Container/Container';
 import './LandingPage.css';
-import desertImage from '../../images/desert-footprints-walking-away.jpg'
+import backgroundImage from '../../images/sand-dunes-desert-night.jpg'
 
-const sectionStyle = {backgroundImage: `url(${desertImage})` }
+const sectionStyle = {backgroundImage: `url(${backgroundImage})` }
 
 class LandingPage extends Component {
   render() {
