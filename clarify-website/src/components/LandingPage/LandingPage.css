@@ -1,0 +1,36 @@
+.LandingPage {
+  text-align: center;
+  padding: 15vh 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.LandingPage-title {
+  font-family: minerva-modern;
+  font-size: 3em;
+  color: #ddd;
+  animation: appear 0.5s linear 0s normal 1 none running;
+
+  border-bottom: 1px solid;
+  width: 50%;
+  margin: 0 auto 30px;
+}
+
+.LandingPage-tagline {
+  font-family: minion-pro-display;
+  font-style: italic;
+  animation: appear 2s linear 0s normal 1 none running;
+  color: #888;
+}
+
+.LandingPage-tagline--spotlight {
+  color: #42f4bc;
+  font-style: normal;
+  margin-left: 1px;
+}
+
+@keyframes appear {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
+}
