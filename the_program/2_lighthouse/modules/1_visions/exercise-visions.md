@@ -54,4 +54,4 @@ You wander deeper into the cave and suddenly stumble and trip over something.  Y
 
 A flash of light blinds you momentarily.  "You have awakened me," says a deep voice. That's right. You just discovered a real life genie.  The genie tells you that it is his duty to grant you wishes.  But the wishes are life based, meaning they must come from your deepest desires and that you must express a vision of a life you wish to be living, then he will grant you the pieces around such a life.
 
-What type of life do you want to be living?  You get to create absolutely anything.  What do you want to be doing?  Who are you surrounded by?  
+What type of life do you want to be living?  You get to create absolutely anything.  What do you want to be doing?  Who are you surrounded by? There are no wrong answers here.  Anything you want to or dream of creating you can.  
